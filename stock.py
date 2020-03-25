@@ -1,7 +1,5 @@
 """
 Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: March 1, 2020
 Final Project
 Description: Set a stock class for the list of stocks
 """
